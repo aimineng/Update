@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "",
+  "url": "https://github.com/aimineng/Update/releases/download/1/update.7z",
   "description": "修复了一些已知问题",
-  "sum": "4d57e62848aa1351e5ef93c4633e1a03f1a2fb9dd3c2152350361ba5e85201fd"
+  "sum": "sha256:38b17a87c075de08856235ce92b1455b2f14121628c18aa187695b6ec381ba46"
 }
